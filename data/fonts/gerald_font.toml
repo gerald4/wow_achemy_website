@@ -1,0 +1,13 @@
+# Font style metadata
+name = "gerald_font"
+
+# Optional Google font URL
+google_fonts = "family=family=B612+Mono&family=Open+Sans"
+
+
+# Font families
+
+heading_font = "B612 Mono"
+body_font = "B612 Mono"
+nav_font = "B612 Mono"
+mono_font = "B612 Mono"

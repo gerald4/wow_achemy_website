@@ -1,0 +1,15 @@
+
+
+# Font style metadata
+name = "gerald_font"
+
+# Optional Google font URL
+google_fonts = "family=Dancing+Script"
+
+
+# Font families
+
+heading_font = "Lato"
+body_font = "Dancing Script"
+nav_font = "Dancing Script"
+mono_font = "Dancing Script"

@@ -1,39 +1,39 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Géraldin Nanfack
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD Student in Machine Learning
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: University of Namur
+  url: https://www.unamur.be/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include constraints in machine learning, interpretability and trustworthiness.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Constraint for interpretability, explainability and trustworthiness
+- Statistical guarantees in machine learning
+- Optimisation for machine learning
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: (expected PhD) in Machine Learning
+    institution: University of Namur, Belgium
+    year: 2022
+  - course: MSc in Data Science
+    institution: Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes, Morocco
+    year: 2018
+  - course: $\equiv$ BEng in Computer Engineering (2 years of Maths & Physics  + 1 year of Computer Engineering)
+    institution: Ecole Nationale Supérieure Polytechnique de Yaoundé, Cameroon
+    year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -45,20 +45,23 @@ social:
   link: '/#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/genanfack
+  label: Follow me on Twitter
+  display:
+    header: true
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://scholar.google.com/citations?user=0_jhp0EAAAAJ
+#- icon: github
+#  icon_pack: fab
+#  link: https://github.com/gcushen
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/g%C3%A9raldin-nanfack-453815124
 
-# Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
-# and uncomment the lines below.
+# Link to a PDF of your resume/CV from the About widget.
+# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
+# and uncomment the lines below.  
 # - icon: cv
 #   icon_pack: ai
 #   link: uploads/resume.pdf
@@ -69,9 +72,8 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+I come from [Nkongsamba](https://www.google.com/maps/place/Nkongsamba,+Cameroun/@4.9641452,9.8994963,13z/data=!3m1!4b1!4m5!3m4!1s0x10607f97e36efd31:0x745727d9ce5a9d76!8m2!3d4.9741169!4d9.9353318), a farming town in Cameroon (Africa). 
+I am a PhD student in Machine Learning at the University of Namur under the supervision of Prof. [Benoît Frénay](https://directory.unamur.be/staff/bfrenay). My research focuses on incorporating constraints on machine learning models to make them more easily explainable and trustworthy. My thesis is funded by the [EOS VeriLearn project](https://eos.cs.kuleuven.be/content/home) of the Fonds National Supérieur de la Recherche Scientifique (FNRS) in Belgium. 
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
