@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/gerald4/gerald4.github.io.git
+	branch = sources
