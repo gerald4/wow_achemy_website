@@ -17,7 +17,7 @@ publishDate: "2020-01-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Under revision for ACM Computing Surveys"
+publication: "ACM Computing Surveys"
 publication_short: ""
 
 abstract: Decision trees have the particularity of being machine learning models that are visually easy to interpret and understand. Therefore, they are primarily suited for sensitive domains like medical diagnosis, where decisions need to be explainable. However, if used on complex problems, decision trees can become large, making them hard to grasp. In addition to this aspect, when learning decision trees, it may be necessary to consider a broader class of constraints, such as the fact that two variables should not be used in a single branch of the tree. This motivates to enforce constraints in learning algorithms of decision trees. We propose a survey of works that attempted to solve the problem of learning decision trees under constraints. Our contributions are fourfold. First, to the best of our knowledge, this is the first survey that deals with constraints on decision trees. Second, we define a flexible taxonomy of constraints applied to decision trees and methods for their treatment in the literature. Third, we benchmark state-of-the art depth-constrained decision tree learners with respect to predictive accuracy and computational time. Fourth, we discuss potential future research directions that would be of interest for researchers who wish to conduct research in this field.
@@ -32,7 +32,7 @@ featured: false
 links:
 #- name: Custom Link
 #  url: http://example.org
-#url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://dl.acm.org/doi/pdf/10.1145/3506734
 #url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 #url_dataset: '#'
 #url_poster: '#'

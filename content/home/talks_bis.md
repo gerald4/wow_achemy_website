@@ -10,13 +10,14 @@ headless: true
 weight: 30
 
 title: 'Recent & Upcoming Talks'
-subtitle:
+subtitle: "In progress..."
+
 
 content:
   # Page type to display. E.g. post, event, publication...
-  page_type: event
+  page_type: talk
   # Choose how many pages you would like to display (0 = all pages)
-  count: 5
+  count: 0
   # Filter on criteria
   filters:
     author: ""
@@ -30,7 +31,6 @@ content:
   offset: 0
   # Page order: descending (desc) or ascending (asc) date.
   order: desc
-
 design:
   # Choose a view for the listings:
   #   1 = List
@@ -38,4 +38,6 @@ design:
   #   3 = Card
   #   4 = Citation (publication only)
   view: 2
+
 ---
+

@@ -1,4 +1,4 @@
----
+  ---
 title: Visualization
 date: '2021-01-01'
 type: book
@@ -14,7 +14,7 @@ Learn how to visualize data with Plotly.
 
 ## Learn
 
-{{< youtube hSPmj7mK6ng >}}
+{{< youtube hSPmj7mK6ng >}} 
 
 ## Quiz
 

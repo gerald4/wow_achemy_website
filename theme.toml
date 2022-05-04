@@ -48,3 +48,6 @@ features = ["page builder", "widgets", "themes", "search", "research publication
   name = ""
   homepage = ""
   repo = ""
+[params.meta]
+    description = ""51ZYzJT3uFSy9YIgb6fxg-htR5-hGjCXz6GT95zqHZc""
+    keywords = "Geraldin Nanfack"

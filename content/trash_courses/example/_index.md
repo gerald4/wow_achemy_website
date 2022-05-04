@@ -1,7 +1,7 @@
 ---
-title: 📊 Learn Data Science
-linkTitle: Data Science
-summary: An example of using Wowchemy's Book layout for publishing online courses.
+title: 📊 In progress...
+#inkTitle: Data Science
+summary: In progress...
 date: '2021-01-24'
 type: book
 ---
@@ -11,7 +11,7 @@ type: book
 {{< toc hide_on="xl" >}}
 
 ## What you will learn
-
+<!---
 - Fundamental {{<hl>}}Python programming skills{{</hl>}}
 - {{<hl>}}Statistical concepts{{</hl>}} and how to apply them in practice
 - Gain experience with the {{<hl>}}Scikit{{</hl>}}, including data visualization with {{<hl>}}Plotly{{</hl>}} and data wrangling with {{<hl>}}Pandas{{</hl>}}
@@ -39,3 +39,6 @@ Continuously, at your own pace.
 {{< /spoiler >}}
 
 {{< cta cta_text="Begin the course" cta_link="python" >}}
+!--->
+
+

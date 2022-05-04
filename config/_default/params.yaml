@@ -20,17 +20,17 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: geraldin.nanfack@unamur.be
-phone: +32 465 78 82 27
+email: geraldin(dot)nanfack(at)unamur(dot)be
+#phone: +32 465 78 82 27
 address:
-  street: Quai Marcellis 9/101
-  city: Liège
-  postcode: '4020'
+  street: Rue Grandgagnage 21
+  city: Namur
+  postcode: '500'
   country: Belgium
   country_code: BE
 coordinates:
-  latitude: '50.635258'
-  longitude: '5.575762'
+  latitude: '50.465750'
+  longitude: '4.857520'
 #directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
 # office_hours:
 #   - 'Monday 10:00 to 13:00'
@@ -116,7 +116,7 @@ publications:
   citation_style: apa
 projects:
   post_view: 2
-  publication_view: 2
+  publication_view: 4
   talk_view: 2
 breadcrumb:
   page_types:
@@ -146,11 +146,12 @@ map:
   api_key: ''
   zoom: 15
 marketing:
-  google_analytics: ''
-  google_tag_manager: ''
+  google_analytics: 'UA-134521348-1'
   google_site_verification: ''
   baidu_site_verification: ''
+  google_tag_manager: 'GTM-T427R8Z'
   baidu_tongji: ''
+
 cms:
   branch: sources
   local_backend: false

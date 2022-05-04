@@ -1,6 +1,8 @@
 ---
 # Homepage SEO
-title: 
+title: noth
 summary: I am Géraldin Nanfack
 type: widget_page
 ---
+
+        
