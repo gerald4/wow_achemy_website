@@ -6,7 +6,7 @@ title: Géraldin Nanfack
 superuser: true
 
 # Role/position/tagline
-role: PhD Student in Machine Learning
+role: Postdoctoral Researcher in Machine Learning
 
 # Organizations/Affiliations to show in About widget
 organizations:
