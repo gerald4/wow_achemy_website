@@ -6,12 +6,15 @@ title: Géraldin Nanfack
 superuser: true
 
 # Role/position/tagline
-role: Postdoctoral Researcher in Machine Learning
+role: Postdoctoral Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: University of Namur
-  url: https://www.unamur.be/
+- name: University of Concordia
+  url: https://www.concordia.ca/
+- name: Mila – Quebec Artificial Intelligence Institute
+  url: https://mila.quebec/en/
+
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include constraints in machine learning, interpretability and trustworthiness.
