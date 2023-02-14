@@ -25,7 +25,7 @@ author_notes:
 - "Equal contribution"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2022-03-01T00:00:00Z"
+publishDate: "2022-11-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -34,7 +34,7 @@ publishDate: "2022-03-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Under review in ECCV"
+publication: "Under review in PAKDD"
 publication_short: ""
 
 abstract: EXplainable Artificial Intelligence (XAI) aims at helping users to grasp the reasoning behind the predictions of an Artificial Intelligence (AI) system. Many XAI approaches have emerged in recent years. Consequently, a subfield related to the evaluation of XAI methods has gained considerable attention, with the aim to determine which methods provide the best explanation using various approaches and criteria. However, the literature lacks a comparison of the evaluation metrics themselves, that one can use to evaluate XAI methods. This work aims to fill this gap by comparing 14 different metrics when applied to 8 state-of-the-art XAI methods and 3 dummy methods (e.g., random saliency maps) used as reference bases. We show which of these metrics produce concordant results and which ones differ, indicating redundancy. We also demonstrate the important impact of specific hyperparameters on the evaluation metric values. Finally, we use the dummy (i.e. naive) methods to assess the reliability of metrics in terms of ranking. We uncover four redundant metrics and show that varying a specific hyperparameter strongly hinders evaluation metrics’ coherence. The main takeaway of our work is to highlight the importance of using metrics carefully, while being aware of their potential limitations when evaluating explainability methods.

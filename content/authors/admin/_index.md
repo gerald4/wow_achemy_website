@@ -25,7 +25,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: (expected PhD) in Machine Learning
+  - course: PhD in Machine Learning
     institution: University of Namur, Belgium
     year: 2022
   - course: MSc in Data Science
@@ -72,8 +72,9 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I come from [Nkongsamba](https://www.google.com/maps/place/Nkongsamba,+Cameroun/@4.9641452,9.8994963,13z/data=!3m1!4b1!4m5!3m4!1s0x10607f97e36efd31:0x745727d9ce5a9d76!8m2!3d4.9741169!4d9.9353318), a farming town in Cameroon (Africa). 
-I am a PhD student in Machine Learning at the University of Namur under the supervision of Prof. [Benoît Frénay](https://directory.unamur.be/staff/bfrenay), and with the great help of [Paul Temple](https://templep.github.io/). My research focuses on incorporating constraints on machine learning models to make them more easily explainable and trustworthy. My thesis is funded by the [EOS VeriLearn project](https://eos.cs.kuleuven.be/content/home) of the Fonds Supérieur de la Recherche Scientifique (FRS-FNRS) in Belgium. 
+I come from [Nkongsamba](https://www.google.com/maps/place/Nkongsamba,+Cameroun/@4.9641452,9.8994963,13z/data=!3m1!4b1!4m5!3m4!1s0x10607f97e36efd31:0x745727d9ce5a9d76!8m2!3d4.9741169!4d9.9353318), a farming town in Cameroon (Africa). \
+I am a Postdoctoral Researcher at the Univeristy of Conocordia and at Mila under the supervision of  PhD student in Machine Learning at the University of Namur under the supervision of Prof. [Eugene Belilovsky](https://eugenium.github.io). We work on robustness of interpretability methods and debiasing mechanisms of models/data. \
+Previously, I obtained my PhD (in Belguim) in November 2022 under the supervision of [Benoît Frénay](https://directory.unamur.be/staff/bfrenay) and [Paul Temple](https://templep.github.io/). My PhD focused on the enforcement of constraints on machine learning models to make them more easily explainable and trustworthy. 
 
 <!---
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

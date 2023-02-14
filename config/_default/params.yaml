@@ -158,3 +158,9 @@ cms:
 icon:
   pack:
     ai: false
+security:
+  funcs:
+    getenv:
+      - ^HUGO_
+      - ^WC_
+
