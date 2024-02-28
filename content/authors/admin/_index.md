@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Géraldin Nanfack
+title: Geraldin Nanfack
 
 # Is this the primary user of the site?
 superuser: true
@@ -10,7 +10,7 @@ role: Postdoctoral Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: University of Concordia
+- name: Concordia University University
   url: https://www.concordia.ca/
 - name: Mila – Quebec Artificial Intelligence Institute
   url: https://mila.quebec/en/
@@ -76,7 +76,7 @@ email: ""
 highlight_name: true
 ---
 I come from [Nkongsamba](https://www.google.com/maps/place/Nkongsamba,+Cameroun/@4.9641452,9.8994963,13z/data=!3m1!4b1!4m5!3m4!1s0x10607f97e36efd31:0x745727d9ce5a9d76!8m2!3d4.9741169!4d9.9353318), a farming town in Cameroon (Africa). \
-I am a Postdoctoral Researcher at the Univeristy of Conocordia and at Mila under the supervision of  PhD student in Machine Learning at the University of Namur under the supervision of Prof. [Eugene Belilovsky](https://eugenium.github.io). We work on robustness of interpretability methods and debiasing mechanisms of models/data. \
+I am a Postdoctoral Researcher at Conocordia University and at Mila under the supervision of Prof. [Eugene Belilovsky](https://eugenium.github.io). We work on robustness of interpretability methods and debiasing mechanisms of models/data. \
 Previously, I obtained my PhD (in Belguim) in November 2022 under the supervision of [Benoît Frénay](https://directory.unamur.be/staff/bfrenay) and [Paul Temple](https://templep.github.io/). My PhD focused on the enforcement of constraints on machine learning models to make them more easily explainable and trustworthy. 
 
 <!---
